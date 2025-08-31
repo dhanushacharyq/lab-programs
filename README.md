@@ -3,9 +3,13 @@ Dhanush
 NNM24IS066
 
 Output:-
+
 initial details:
+
 employee name: john
+
 employee id: 123
+
 employee salray: 35000.0
 employee name: shawn
 employee id: 124
